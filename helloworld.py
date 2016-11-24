@@ -1,2 +1,2 @@
-print "hello wold"
-print "my second python"
+print "hello world " ," my second python"
+
